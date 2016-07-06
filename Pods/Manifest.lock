@@ -1,0 +1,15 @@
+PODS:
+  - InAppSettingsKit (2.7.1)
+  - IQKeyboardManager (4.0.4)
+
+DEPENDENCIES:
+  - InAppSettingsKit (= 2.7.1)
+  - IQKeyboardManager (~> 4.0.4)
+
+SPEC CHECKSUMS:
+  InAppSettingsKit: 2b9fcdb82cdff2f99c51cae544e9f4df0df7afbf
+  IQKeyboardManager: 4a6f83b540283c2645aaeba2bd8dc0f09b5c77f8
+
+PODFILE CHECKSUM: 618203f9c2019d4faf9704e56396151c8c0074a6
+
+COCOAPODS: 1.0.1
